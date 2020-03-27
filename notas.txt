@@ -1,0 +1,30 @@
+/*
+Rota / Recurso
+
+*
+#Métodos HTTP:
+
+GET: Buscar uma informa��o do Back-end
+
+POST: Criar um informa��o no back-end
+
+PUT: Akterar uma informa��o do back-end
+
+DELETE: Deletar uma informa��o no back-end
+
+
+*/
+
+
+/*
+TIPOS DE PARAMETROS:
+
+Query Params: Par�metros nomeados enviados na roda ap�s "?" (filtros, pagina��o)
+
+Route Params: Par�metros utilizados para identificar recursos
+
+Request Body: Corpo da requisi��o, utilizado para criar ou alterar recursos
+
+
+
+*/
