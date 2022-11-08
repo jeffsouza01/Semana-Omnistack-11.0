@@ -12,7 +12,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "4.17.1",
-    "next": "^9.3.2",
+    "next": "^13.0.2",
     "sqlite": "^3.0.6"
   },
   "devDependencies": {
